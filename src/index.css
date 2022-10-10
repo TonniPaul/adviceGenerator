@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Manrope:wght@400;500;700;800&display=swap');
+:root {
+  --primary : hsl(218, 23%, 16%);
+  --card : hsl(217, 19%, 24%);
+  --primaryText : hsl(193, 38%, 86%);
+  --green : hsl(150, 100%, 66%);
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  font-family: 'Manrope', sans-serif;
+  font-weight: 800;
+  line-height: 39px;
+}
+body {
+  background: var(--primary);
+}
