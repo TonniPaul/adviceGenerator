@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TonniPaul/adviceGenerator)
-- Live Site URL: [Add live site URL here](https://advice-generator-rho-six.vercel.app/)
+- Solution URL: [GitHub](https://github.com/TonniPaul/adviceGenerator)
+- Live Site URL: [Live Preview](https://advice-generator-rho-six.vercel.app/)
 
 
 ### Built with
@@ -57,6 +57,6 @@ I would like to build more projects using the useEffect and useLayOutEffect hook
 ## Author
 
 - Website - [TonniPaul](https://tonnipaul.live)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/TonniPaul)
-- Twitter - [@yourusername](https://www.twitter.com/tonnipaul)
+- Frontend Mentor - [@TonniPaul](https://www.frontendmentor.io/profile/TonniPaul)
+- Twitter - [@TonniPaul](https://www.twitter.com/tonnipaul)
 
