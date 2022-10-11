@@ -54,6 +54,9 @@
   .quotes {
     font-size: 20px;
   }
+  .dice-cont:hover{
+    filter: none;
+  }
   .divide-d {
     display: none;
   }
