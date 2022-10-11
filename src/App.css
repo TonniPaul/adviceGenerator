@@ -21,6 +21,7 @@
   width: max-content;
   position: absolute;
   display: grid;
+  user-select: none;
   place-items: center;
   left: 50%;
   transform: translateX(-50%);
